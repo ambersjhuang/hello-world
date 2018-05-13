@@ -1,2 +1,2 @@
 # hello-world
-first practice
+Amber's first practice of github.
